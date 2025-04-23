@@ -1,0 +1,6 @@
+# Teste de script para Gitcoin Passport
+def hello():
+    print("Olá, Gitcoin!")
+
+if __name__ == "__main__":
+    hello()
